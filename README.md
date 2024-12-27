@@ -13,28 +13,30 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | API Dash   | [Link](https://github.com/foss42/apidash)             | API Dash is a beautiful open-source cross-platform API Client built using Flutter which can help you easily create & customize your API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia. |
-| Appainter | [Link](https://github.com/zeshuaro/appainter) | A material theme editor and generator for Flutter to configure and preview the overall visual theme of your material app. |
+| Appainter | [Link](https://github.com/zeshuaro/appainter) | A material theme editor and generator for Flutter to configure and preview the overall visual theme of your material app |
 | BendyStraw | [Link](https://codeberg.org/mm-dev/bendy-straw) | An Android app for managing NewPipe databases |
-| blazed cloud | [Link](https://github.com/theredspy15/blazedcloud) | Mobile client for minimalistic cloud hosting provider, Blazed Cloud |
-| cb_app | [Link](https://github.com/printpagestopdf/cb_app) | A Flutter based App that provides Access to CommonsBooking driven Sites |
+| cb_app | [Link](https://github.com/printpagestopdf/cb_app) | An App that provides Access to CommonsBooking driven Sites |
 | devtoolbox | [Link](https://github.com/PolyglotNetwork/devtoolbox) | Collection of offline utilities for developers |
-| DevWidgets | [Link](https://github.com/gumbarros/DevWidgets)       | DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys. |
+| DevWidgets | [Link](https://github.com/gumbarros/DevWidgets)       | DevWidgets is an application with several tools such as generators, formatters and converters for developers |
 | Flutter Design Patterns | [Link](https://github.com/mkobuolys/flutter-design-patterns) | Flutter Design Patterns application |
 | Flutter Installer | [Link](https://github.com/yazeedalkhalaf/flutter_installer) | Flutter Installer is an installer for Flutter built with Flutter |
-| GitCommitStreak | [Link](https://github.com/schilken/git_commit_streak) | A tool that shows the number of consecutive days with at least one commit per day. |
+| FlutterFx | [Link](https://github.com/flutterfx/flutterfx_widgets) | Animated flutter widgets for busy flutter developers |
+| GitCommitStreak | [Link](https://github.com/schilken/git_commit_streak) | A tool that shows the number of consecutive days with at least one commit per day |
 | GitTouch | [Link](https://github.com/pd4d10/git-touch) | An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee, built with Flutter |
-| GSYGitHubApp | [Link](https://github.com/CarGuo/gsy_github_app_flutter) | An open source Github client App developed in Flutter. Provides a wide variety of functionality. |
+| GSYGitHubApp | [Link](https://github.com/CarGuo/gsy_github_app_flutter) | An open source Github client App that provides a wide variety of functionality |
 | KitX | [Link](https://github.com/crequency/kitx-mobile) | Mobile Client for KitX |
-| kubenav | [Link](https://github.com/kubenav/kubenav) | kubenav is the navigator for your Kubernetes clusters right in your pocket. |
+| kubenav | [Link](https://github.com/kubenav/kubenav) | kubenav is the navigator for your Kubernetes clusters right in your pocket |
 | Lab+ for GitLab | [Link](https://github.com/thelooter/labplus_for_gitlab) | An App to manage your interactions with your Gitlab Instance from your phone or Desktop |
-| RustDesk | [Link](https://github.com/rustdesk/rustdesk) | An open-source remote desktop, and alternative to TeamViewer. |
+| RustDesk | [Link](https://github.com/rustdesk/rustdesk) | An open-source remote desktop, and alternative to TeamViewer |
 | semaphore | [Link](https://github.com/gsmlg-dev/ansible-semaphore-client) | Client App for Ansible Semaphore |
 | ServeIt | [Link](https://github.com/many-fac3d-g0d/serveit) | A simple http-server on android |
 | ServerBox | [Link](https://github.com/lollipopkit/flutter_server_box) | Provides charts to display Linux server status and tools to manage server |
-| sidekick   | [Link](https://github.com/fluttertools/sidekick)      | A simple desktop interface for tools that enhance Flutter's development experience to make it even more delightful. |
+| sidekick   | [Link](https://github.com/fluttertools/sidekick)      | A simple desktop interface for tools that enhance Flutter's development experience to make it even more delightful |
+| SnapInk | [Link](https://github.com/IldySilva/SnapInk) | Transform your code into beautiful, print-ready images. Easily customize, share & showcase your code with style |
 | Software architecture of interpreter in Dart | [Link](https://github.com/euler2dot7/interpreter) | Software architecture of interpreter in Dart (Flutter) |
 | The Widget-Maker | [Link](https://github.com/norbert515/flutter_ide) | A visual editor for Flutter widgets |
 | tldr | [Link](https://github.com/techno-disaster/tldr-flutter) | simplified man-pages, a tldr.sh client |
+| WidgetHub | [Link](https://github.com/yunweneric/flutter-widgethub) | Collection of UI Widgets to help developers create beautiful, functional flutter apps |
 
 ### Generative AI & LLMs
 
@@ -45,8 +47,10 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | ai_buddy  | [Link](https://github.com/yatendra2001/ai_buddy)               | Your personal free-to-use AI assistant, built with gemini & flutter |
 | aidea     | [Link](https://github.com/mylxsw/aidea)                        | AIdea supports GPT and domestic LLMs Tongyi Qianwen, Wenxinyiyan, etc., and supports Stable Diffusion Wenshengtu, Tushengtu, SDXL1.0, super-resolution, and picture coloring. |
 | Flutter Scribble | [Link](https://github.com/lahirumaramba/flutter_scribble) | Turn your scribbles into detailed images with AI |
+| FlutterVoiceFriend | [Link](https://github.com/jbpassot/flutter_voice_friend) | Build interactive, voice-driven chatbot experiences using a combination of speech-to-text (STT) and text-to-speech (TTS) |
 | HaoChat | [Link](https://github.com/conghaonet/hao_chatgpt) | An unofficial ChatGPT application |
 | maid      | [Link](https://github.com/Mobile-Artificial-Intelligence/maid) | Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely |
+| MyOllama | [Link](https://github.com/bipark/my_ollama_app) | Ollama-based LLM mobile client |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
 | Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI |
 
@@ -96,10 +100,10 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
+| Cake Wallet | [Link](https://github.com/cake-tech/cake_wallet) | A non-custodial, and private multi-currency crypto wallet |
 | Combo POS | [Link](https://github.com/aquariumfish2/combo-pos) | Digital technology combo pos application is responsible to make any restaurant point of sale with a menu, table, users, balance calculator, etc. |
-| Dypos | [Link](https://github.com/torchice/dypos) | Point Of Sales Application using Flutter Firebase |
+| Dypos | [Link](https://github.com/torchice/dypos) | Point of Sales Application using Flutter Firebase |
 | Encointer Wallet | [Link](https://github.com/encointer/encointer-wallet-flutter) | Encointer mobile wallet flutter implementation |
-| eTaka | [Link](https://github.com/ssoad/etaka) | A Financial Mobile Application based on P2P Banking Concept |
 | Flutter Point Of Sale App UI | [Link](https://github.com/julvikramsupandi/flutter-pos-app-ui) | Flutter Point Of Sale App UI |
 | fWallet | [Link](https://gitlab.com/theonewiththebraid/f_wallet) | A beautiful cross-platform wallet application. |
 | HADWIN                   | [Link](https://github.com/brownboycodes/HADWIN)                  | a prototype of a fund transfer platform |
@@ -161,7 +165,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | google-docs-clone-flutter  | [Link](https://github.com/funwithflutter/google-docs-clone-flutter) | A clone of Google Docs using Flutter and Appwrite |
 | HalfDot | [Link](https://github.com/davquar/halfdot) | Minimalistic Umami client for Android |
 | katswiri              | [Link](https://github.com/doreanbyte/katswiri)  | A crawler to find job listings and aggregate them from multiple sources  |
-| Ozan | [Link](https://github.com/imrofayel/Ozan/) | A personal knowledge base like Obsidian & Notion that combines simplicity with powerful features e.g., markdown support, graph, AI assistant, import/export etc. |
+| Ozan | [Link](https://github.com/imrofayel/Ozan) | A personal knowledge base like Obsidian & Notion that combines simplicity with powerful features e.g., markdown support, graph, AI assistant, import/export etc. |
 | microsoft_teams_clone | [Link](https://github.com/Karanjot-singh/microsoft_teams_clone) | Microsoft Teams Clone is a Video conference application with a rich integrated chat experience, to connect with friends, family & colleagues. |
 | Notat | [Link](https://github.com/dev-salem/notat) | a simple note-taking app with a markdown editor, built with Flutter and Firebase |
 | Notepad | [Link](https://github.com/sarvesh4396/notepad) | An open-source simple light-weight notepad ,built with Flutter |
@@ -187,9 +191,11 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Leaflet | [Link](https://github.com/potatoproject/leaflet) | POSP official notes app, soon to be included |
 | Lightplan | [Link](https://github.com/xddk/lightplan) | LightPlan is an open source project meant to remind tasks you have to make. Time is ticking, let's not waste time planning. |
 | listify                    | [Link](https://github.com/momshaddinury/listify)                    | Todo App with a refreshing UI. Technology used: Flutter, Firebase, MVC, Riverpod. |
-| log_book                   | [Link](https://github.com/DonnC/log_book)                           | An internship log book desktop app |
+| Local Material Notes | [Link](https://github.com/maelchiotti/localmaterialnotes) | Simple, local, material design notes |
+| log_book | [Link](https://github.com/DonnC/log_book) | An internship log book desktop app |
 | markdownr | [Link](https://github.com/sanzoghenzo/markdownr) | Android app that converts an URL to markdown, and lets you share it to your favorite notes app. |
-| memo                       | [Link](https://github.com/olmps/memo)                               | Memo is an open-source, programming-oriented spaced repetition software (SRS). |
+| memo | [Link](https://github.com/olmps/memo) | Memo is an open-source, programming-oriented spaced repetition software (SRS). |
+| MindWrite | [Link](https://github.com/mohhamad-esmaili/mindwrite) | Help you create and manage your notes, this app is clone of Google Keep |
 | minttask | [Link](https://github.com/boredcodebyk/minttask) | A simple todo manager for Android made using Flutter with Material Design 3 |
 | Note Taking App | [Link](https://github.com/bimsina/notes-app) | Note Taking App made with Flutter with Sqlite as database. |
 | NoteApp-Clean-Architecture | [Link](https://github.com/imSanjaySoni/NoteApp-Clean-Architecture)  | NoteApp with Domain-Driven Clean Architecture with FlutterBloc + Freezed + Hive  |
@@ -202,7 +208,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | pmdr                       | [Link](https://github.com/aricodeine/pmdr)                          | A Pomodoro App |
 | Repeat Me | [Link](https://github.com/samarthdesai01/repeatme) | A clean and intuitive task managing app for Android created with Flutter  |
 | Shorey | [Link](https://github.com/elementlo/shorey) | Shorey is a simple note app which is built with Flutter and supports both Android/iOS platforms. |
+| Stride | [Link](https://github.com/stride-tasks/stride) | Task management application with in-built git integration |
 | task_management            | [Link](https://github.com/iahmadamin/task_management)               | Task Management / TODO App  |
+| Tasker | [Link](https://github.com/erfanrht/tasker) | Open source task manager (todo list) app |
 | Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
 | TaskWarrior | [Link](https://github.com/CCExtractor/taskwarrior-flutter)| A premier task management tool for terminal users |
 | Time Cop | [Link](https://github.com/hamaluik/timecop) | A privacy first time tracking app. |
@@ -230,14 +238,16 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Convapp | [Link](https://github.com/maximoospital/Convapp) | A lightweight and multi-platform real-time unit conversion app. |
 | Converter NOW | [Link](https://github.com/ferraridamiano/converternow) | The Unit Converter app: easy, immediate and multi-platform |
 | dpc | [Link](https://github.com/jakubslaby09/dpc) | An open-source app for writing a family pedigree with a chronicle using Git |
+| Emotic | [Link](https://github.com/futuristicgoo/emotic) | Show a list of emoticons which can be copied to clipboard for any use |
 | Frigoligo | [Link](https://github.com/casimir/frigoligo) | A wallabag client to take your links anywhere and keep them fresh! |
 | Gopeed | [Link](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms |
 | IdiomReplaceX Browser | [Link](https://github.com/idiomreplacex/idiomreplacex-app) | The IdiomReplaceX Browser App is a special browser app where IdiomReplaceX toolbox is added to almost any web page, allowing literary filters to be applied to the content of the web page |
 | keyviz | [Link](https://github.com/mulaRahul/keyviz) | Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.  |
 | Keyviz | [Link](https://github.com/softwarearchitect817/keyviz) | Let your audience know what handy shortcuts/keys you're pressing during screencasts, presentations, collaborations, or whenever you need it. |
 | limpazap | [Link](https://github.com/lucasew/limpazap) | Clean up Whatsapp backups |
+| Logger | [Link](https://github.com/sanmeet007/logger) | Android app to view and export call logs in CSV or JSON format and perform lightweight on-device analysis |
 | Mint Calculator | [Link](https://github.com/boredcodebyk/mintcalc) | A simple calculator and unit converter app with Material Design 3 inspired by Windows Calculator |
-| Neumorphic Calculator | [Link](https://github.com/mllrr96/Neumorphic-Calculator) | An elegant and highly customizable calculator app with a beautiful neumorphic design. |
+| Neumorphic Calculator | [Link](https://github.com/mllrr96/neumorphic-calculator) | An elegant and highly customizable calculator app with a beautiful neumorphic design. |
 | Nyrna | [Link](https://github.com/Merrit/nyrna) | Suspend games and applications. |
 | Orgro | [Link](https://github.com/amake/orgro) | An Org Mode file viewer for iOS and Android |
 | Parti | [Link](https://gitlab.com/carsten_scholtes/parti) | A tool to help partitioning something into fractional parts |
@@ -259,11 +269,10 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | NC Passwords | [Link](https://gitlab.com/joleaf/nc-passwords-app) | A password manager app (Android + iOS) for Nextcloud's Passwords app. |
 | nfsee | [Link](https://github.com/nfcim/nfsee) | Read your Transit/Bank/ID cards on Android/iOS phone with NFSee App |
 | Passy | [Link](https://github.com/glitterware/passy) | Offline password manager with cross-platform synchronization |
-| PrivacyBlur | [Link](https://github.com/mathema-gmbh/privacyblur) | Obfuscate sensitive data in your pictures before sharing them online. |
 | Rivia | [Link](https://github.com/loooltooot/rivia) | Rivia is the unique encryption tool |
 | RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
 | Safe Notes | [Link](https://github.com/keshav-space/safenotes) | Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors. |
-| Secur | [Link](https://gitlab.com/atechnohazard/secur) | A FOSS, cross-platform TOTP client written in Flutter with the aim of providing a beautiful UI. |
+| Secur | [Link](https://gitlab.com/SphericalKat/secur) | A FOSS, cross-platform TOTP client written in Flutter with the aim of providing a beautiful UI. |
 | Securify | [Link](https://github.com/ishanrakte/securify) | A password manager application with three layers of security. The app stores the passwords in a local database in an encrypted format.  Also, there is biometric verification(Fingerprint) whenever the app opens. |
 | SelfPrivacy | [Link](https://git.selfprivacy.org/kherel/selfprivacy.org.app) | SelfPrivacy — is a platform on your cloud hosting, that allows to deploy your own private services and control them using mobile application |
 | Wassword | [Link](https://github.com/polilluminato/wassword-flutter) | Wassword is an Android App built with Flutter to generate passwords and passphrases |
@@ -276,13 +285,16 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 |:-----------|:------|:-------------|
 | Aves Libre | [Link](https://github.com/deckerst/aves) | Aves is a gallery and metadata explorer app, built for Android with Flutter. |
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes |
+| Cloud Gallery | [Link](https://github.com/canopas/cloud-gallery) | Have all your photos/videos on any cloud at anytime! Powered by Firebase |
 | ente             | [Link](https://github.com/ente-io/ente)                    | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
 | Flutter Photography | [Link](https://github.com/afgprogrammer/Flutter-Photography-Application) | A beautiful and animated Photography Application UI. |
 | Image Editor | [Link](https://github.com/codenameakshay/image-editor) | Open source image editing app for Android/iOS. |
+| Image Meta Cleaner | [Link](https://gitlab.com/alimiracle/image_meta_cleaner) | A cross-platform application designed to remove metadata from images |
 | Immich | [Link](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 | Libre Camera | [Link](https://github.com/iakmds/librecamera) | A free and open source camera app for Android written in Flutter and Dart |
 | OBS Blade | [Link](https://github.com/kounex/obs_blade) | Make use of the OBS WebSocket Plugin (https://github.com/obsproject/obs-websocket) and control your stream |
 | photobooth       | [Link](https://github.com/flutter/photobooth)              | Google I/O 2021 Photo Booth built with Flutter and Firebase  |
+| PicGuard | [Link](https://github.com/picguard/picguard) | Secure & customize your digital photos by adding watermarks to your images |
 | pstube           | [Link](https://github.com/prateekmedia/pstube)             | Watch and download videos without ads |
 | Snap Saver | [Link](https://github.com/nielslee/snapsaver) | A camera app that makes it easier to take photos for selected albums or directories |
 | Yaga | [Link](https://github.com/vauvenal5/yaga) | Nextcloud Yaga - A Nextcloud first gallery app for Android. |
@@ -360,6 +372,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Siete y media | [Link](https://github.com/webierta/siete_media) | Classic Spanish card game 'Seven thirty' |
 | Slide Puzzle | [Link](https://github.com/kevmoo/slide_puzzle) | The classic slide (15) puzzle in Dart and Flutter |
 | Snaake | [Link](https://github.com/lucasnlm/snaake-flutter) | Snaake is a small and very simple clone of the classic snake game from Nokia phones. |
+| Sober Driver | [Link](https://github.com/maurovanetti/guidi-tu) | A game to select who drives tonight, and who drinks instead |
 | Space-Empires          | [Link](https://github.com/SatyamX64/Space-Empires)  | Space Themed Turn-Based Strategy Game |
 | Spacecape | [Link](https://github.com/ufrshubham/spacescape) | A 2D top-down space shooter made using Flutter and Flame engine. |
 | Sudaku | [Link](https://codeberg.org/theoden8/sudaku) | Solve sudoku by creating rules |
@@ -390,6 +403,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Box, Box! | [Link](https://github.com/brightdv/boxbox) | Unofficial Android and web app for Formula 1 fans! |
 | FitConnect | [Link](https://github.com/fitconnect-app/fitconnect-flutter-app) | App that facilitates meaningful connections among individuals through shared sports activities |
 | Flutter League | [Link](https://github.com/csuka1219/Flutter_League) | A companion app for League of Legends players to search summoners, view stats and match history, and check ongoing games. |
+| Khelo | [Link](https://github.com/canopas/khelo) | An open-source flutter app for easy cricket team management and performance tracking |
 | Shoot Report | [Link](https://github.com/Alienuser/shoot-report-flutter) | App for shooting sports |
 | Shooting Sports Analyst | [Link](https://github.com/jslater89/shooting-sports-analyst) | Desktop application for viewing, analyzing, and predicting practical shooting match results. |
 | Spod | [Link](https://github.com/mikirinkode/sports_venue_booking_app) | Spod allows user to book a sport venue from anywhere anytime using a mobile. |
@@ -548,11 +562,13 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Fun With Kanji | [Link](https://github.com/krille-chan/fun-with-kanji) | Simple Flutter app to learn Japanese writing systems Hiragana, Katakana and Kanji. |
 | Graded | [Link](https://github.com/nightdreamgames/graded) | Graded - Grade Tracker |
 | hamfisted | [Link](https://github.com/specht/hamfisted) | With this app you can prepare for the amateur radio exam for classes E and A. Practice all the questions and keep track of your progress. |
+| Human Benchmark | [Link](https://github.com/printn/human-benchmark) | Mobile app designed to test and improve cognitive abilities through a series of fun and challenging tests |
 | JS-Dict | [Link](https://github.com/petlyh/js-dict) | Japanese-English dictionary app powered by Jisho.org |
 | Kepler-App | [Link](https://github.com/antonioalbt/kepler_app) | The ultimate overview app for all JKG students, parents and teachers |
 | lanelexicon | [Link](https://github.com/gibreelabdullah/lanelexicon) | Lane's Lexicon - An Arabic English Dictionary |
 | MatheBuddy | [Link](https://github.com/mathebuddy/mathebuddy) | A gamified learning app for higher math. |
 | Mathematics | [Link](https://github.com/j-j-gajjar/mathematics) | Mathematics Flutter offers a collection of mathematical functions and supports generation of MCQs, QnA PDFs & quizzes. |
+| Ciyue | [Link](https://github.com/mumu-lhl/ciyue) | A mdict dictionary with Android support |
 | Nihonoari | [Link](https://github.com/aeri/nihonoari-app) | A little and minimalist Japanese Kana training |
 | Notely | [Link](https://github.com/thilojaeggi/notely) | A cross-platform mobile client for the Kaschuso (schulnetz) School platform.  |
 | O̍h Tâi Gí | [Link](https://github.com/hschueh/oh_tai_gi) | A Taiwanese (tâi-gí) learning app inspired by moedict & quizlet. |
@@ -578,6 +594,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
+| Color Hap | [Link](https://github.com/tecdrop/color_hap) | Random color generator to generate a vast array of colors, including basic, web, named, and true random colors. |
 | Color Studio | [Link](https://github.com/bernaferrari/color-studio) | Build coherent and accessible themes with the right colors. |
 | Let's Draw | [Link](https://github.com/jideguru/flutter_drawing_board) | A simple drawing app made with Flutter |
 | Mooltik | [Link](https://github.com/ruskakimov/mooltik) | Mobile app for drawing 2D animation |
@@ -592,10 +609,11 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | AI Radio | [Link](https://github.com/AadrianLeo/AI-Radio-App) | Radio application with an AI assistant to play, stop, search songs by categories. |
+| Anytime Podcast Player | [Link](https://github.com/amugofjava/anytime_podcast_player) | Simple, easy to use Podcast player app |
 | Bide et Musique | [Link](https://github.com/odrevet/bide_et_musique_flutter) | Listen to and access the web radio 'Bide and Music' |
 | BloomeeTunes        | [Link](https://github.com/HemantKArya/BloomeeTunes)  | A music app designed to bring you ad-free tunes from various sources.  |
 | Chillify | [Link](https://github.com/karimelghamry/chillify) | Music App made with flutter |
-| DJ Edertech App | [Link](https://gitlab.com/edertech/dj_edertech) | Immerse yourself in the nostalgic beats spanning various music genres |
+| DJ Edertech App | [Link](https://gitlab.com/ederson-itabaiana/dj_edertech) | Immerse yourself in the nostalgic beats spanning various music genres |
 | Drip | [Link](https://github.com/spsden/drip) | A Youtube Music client for Desktop. (in Development) |
 | finamp              | [Link](https://github.com/jmshrv/finamp)   | A Jellyfin music client for mobile  |
 | Flutter Music | [Link](https://github.com/o-ifeanyi/musicplayer) | A Flutter music player to play songs (mp3). |
@@ -608,8 +626,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Harmony Music | [Link](https://github.com/anandnet/harmony-music) | A cross platform App for streaming Music |
 | K-19 Player | [Link](https://github.com/ulysg/k19-player) | A nice music player for OpenSubsonic server |
 | Lyrics 2 | [Link](https://github.com/f-leoni/lyrics2) | A flutter app to search songs' lyrics |
-| Marina.Moda | [Link](https://github.com/sorydima/Marina.Moda-) |  A decentralized music streaming service powered by AI. |
-| Meloplay            | [Link](https://github.com/ShokhrukhbekYuldoshev/Meloplay) | Meloplay is a local music player app that plays music from your device built with Flutter. |
+| Meloplay | [Link](https://github.com/ShokhrukhbekYuldoshev/Meloplay) | Meloplay is a local music player app that plays music from your device built with Flutter. |
 | Mightier Amp | [Link](https://github.com/tuntorius/mightier_amp) | An alternative app for controlling NUX Mighty amps. |
 | mucke | [Link](https://github.com/moritz-weber/mucke) | mucke - android music player |
 | Music Player | [Link](https://github.com/joec05/pocket-music-player) | Music player app made with Flutter. |
@@ -781,6 +798,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
+| Cardabase | [Link](https://github.com/georgeyt9769/cardabase-app) | Save EAN-13 club cards on your phone and use them later |
 | E-commerce App UI | [Link](https://github.com/abuanwar072/E-commerce-App-UI-Flutter) | Nice and clean Online Shop app UI by using Flutter. |
 | Fast Shopping | [Link](https://github.com/albert221/fastshopping) | Simple app for easy shopping list making, developed with simplicity in mind. |
 | Flutter Games | [Link](https://github.com/rayliverified/FlutterGames) | A Flutter app for purchasing and renting games. |
@@ -815,6 +833,12 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Learn | [Link](https://github.com/VaibhavCodeClub/learn) | A simple learning app for kids. |
 | nomdebebe | [Link](https://github.com/hamaluik/nomdebebe) | A simple, private tool to help pick a baby name. |
 | Spelling Wizard | [Link](https://github.com/open-pi/spellingwizard) | A Spelling App |
+
+### Pets & Animals
+
+| Project | Repo | Description |
+|:--------|:-----|:------------|
+| Dog sports diary | [Link](https://github.com/maocypher/dogsportsdiary) | App for a dog sports diary to track the progress of the training |
 
 ### Wearables
 
@@ -880,6 +904,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 |:-----------|:------|:-------------|
 | Auragita | [Link](https://github.com/tushal13/Auragita) | Bhagavad Gita learning app |
 | Bhagavad Gita | [Link](https://github.com/kvmangukiya/bhagavad_gita) | App to study and explore the teachings of Bhagvat Geeta |
+| Bibleside | [Link](https://github.com/correct-syntax/bible_side) | An offline Bible app featuring the OET (Open English Translation) |
 | elisha            | [Link](https://github.com/31Carlton7/elisha)                     | An Offline Bible & Church App for iOS & Android.  |
 | eQuran | [Link](https://github.com/ya27hw/equran_app) | An app for reading the Holy Quran. |
 | Inni di Lode | [Link](https://github.com/theFreeman96/inni-di-lode) | A Christian Songbook for Italian Churches. |
@@ -915,17 +940,19 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Criminal Catcher | [Link](https://github.com/siddharth424/crime-detection) | Online filing of FIR/complaint with GPS location, photos, and videos. |
 | Fake Contacts | [Link](https://github.com/billdietrich/fake_contacts) | Create fake phone contacts, to do data-poisoning. |
 | FOSS Warn | [Link](https://github.com/nucleus-ffm/foss_warn) | An unofficial open source application to get emergency alerts from https://warnung.bund.de/meldungen. |
+| GroupTrack | [Link](https://github.com/canopas/group-track-flutter) | An app designed to enhance family safety 👫 through real-time location sharing 📍 and communication features |
 | Locus | [Link](https://github.com/myzel394/locus) | Share your location end-to-end encrypted on decentralized servers using Nostr. |
 | Pareu de Parar-me | [Link](https://gitlab.com/pareudepararme/pareu-de-pararme-map) | Report racist actuation in Barcelona |
 | penhas-app | [Link](https://github.com/institutoazmina/penhas-app) | Source code of the PenhaS Mobile App  |
 | Trovami | [Link](https://github.com/samaritan1011001/trovami) | A live location sharing app built on Flutter and Firebase as backend |
 | You | [Link](https://github.com/MDSADABWASIM/You) | The app to check what internet knows about you. |
 
-### Environment & Social
+### Environment, Social & Agriculture
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | #FFF Info | [Link](https://gitlab.com/jugendhackt/fff_info) | Get all information about your climate strike! |
+| DigiAgriApp | [Link](https://gitlab.com/digiagriapp/digiagriapp-mobile) | FOSS application to monitor your agriculture field |
 | Ehrenamt | [Link](https://github.com/digitalfabrik/entitlementcard) | App for the Bayerische Ehrenamtskarte, a benefit card for volunteers in Bavaria, Germany. |
 | Florae | [Link](https://github.com/aeri/florae) | Keep care of your green, leafy best friends |
 | Insigno | [Link](https://github.com/mindshub/insigno_frontend) | Insigno makes keeping your city clean enjoyable and inspiring! |
