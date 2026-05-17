@@ -604,7 +604,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Sunrise Signal | [Link](https://github.com/avizitrx/sunrise_signal) | Track and understand morning wood to gain better health insights |
 | Track My Indoor Workout | [Link](https://github.com/TrackMyIndoorWorkout/TrackMyIndoorWorkout) | An app for recording stationary workouts of smart fitness machines via BLE protocol |
 | trale | [Link](https://github.com/quantumphysique/trale) | trale – a simple body weight diary app respecting your privacy |
-| Watermaniac | [Link](https://github.com/artur-ios-dev/watermaniac) | A hydration tracking app that helps you track the amount of water you drink |
 | Wger Workout Manager | [Link](https://github.com/wger-project/flutter) | A digital health and fitness tracker app |
 | Workout Time | [Link](https://gitlab.com/ideotec/workouttime) | An app for managing and performing timed workouts |
 | Workout Tracker | [Link](https://github.com/jerichoi224/workouttracker) | An app to record and track workout routines |
