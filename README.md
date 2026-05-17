@@ -89,6 +89,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Software architecture of interpreter in Dart | [Link](https://github.com/euler2dot7/interpreter) | Software architecture of interpreter in Dart (Flutter) |
 | The Widget-Maker | [Link](https://github.com/norbert515/flutter_ide) | A visual editor for Flutter widgets |
 | tldr | [Link](https://github.com/techno-disaster/tldr-flutter) | simplified man-pages, a tldr.sh client |
+| Vide | [Link](https://github.com/Norbert515/vide_cli) | An agentic terminal UI for Claude, built for Flutter developers |
 | WidgetHub | [Link](https://github.com/yunweneric/flutter-widgethub) | Collection of UI Widgets to help developers create beautiful, functional flutter apps |
 
 ### Generative AI & LLMs
@@ -453,6 +454,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Lichess Mobile | [Link](https://github.com/lichess-org/mobile) | Second iteration of the Lichess mobile app. |
 | Math Matrix | [Link](https://github.com/jaysavsani07/math-metrix) | Math puzzle game. |
 | Mill | [Link](https://github.com/calcitem/sanmill) | Sanmill is a free, powerful UCI-like N men's morris program with CUI, Flutter GUI and Qt GUI. |
+| Minesweeper | [Link](https://github.com/mrgnhnt96/minesweeper) | A classic Minesweeper game for the terminal |
 | Minesweeper Game | [Link](https://github.com/recepsenoglu/minesweeper) | A Minesweeper game. |
 | Oblique Strategies | [Link](https://github.com/hobgoblina/oblique-strategies) | A digital rendering of Oblique Strategies - Over one hundred worthwhile dilemmas |
 | Pacman | [Link](https://github.com/Raj2503/Pacman-Flutter) | Vintage Pacman Game. |
@@ -465,6 +467,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Setonix | [Link](https://github.com/LinwoodDev/Setonix) | A table sandbox game where you can decide how to play. Spawn cards everywhere you like, play with your friends or alone without internet |
 | Siete y media | [Link](https://github.com/webierta/siete_media) | Classic Spanish card game 'Seven thirty' |
 | Slide Puzzle | [Link](https://github.com/kevmoo/slide_puzzle) | The classic slide (15) puzzle in Dart and Flutter |
+| Snake | [Link](https://github.com/mrgnhnt96/snake) | A classic Snake game for the terminal |
 | Snaake | [Link](https://github.com/lucasnlm/snaake-flutter) | Snaake is a small and very simple clone of the classic snake game from Nokia phones. |
 | Sober Driver | [Link](https://github.com/maurovanetti/guidi-tu) | A game to select who drives tonight, and who drinks instead |
 | Space-Empires          | [Link](https://github.com/SatyamX64/Space-Empires)  | Space Themed Turn-Based Strategy Game |
@@ -765,6 +768,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Musicpod | [Link](https://github.com/ubuntu-flutter-community/musicpod) | Music, radio, television and podcast player for Ubuntu, Windows, MacOs and Android |
 | Musify              | [Link](https://github.com/gokadzev/Musify)  | Unlock the full potential of music: Stream effortlessly with one app! |
 | Nebula | [Link](https://github.com/TG12r/nebula) | A privacy-first, open-source music streaming app built with Flutter & Supabase. |
+| OneMusic | [Link](https://github.com/AkshatRaj00/OneMusic) | Ad-free open source music app |
 | player              | [Link](https://github.com/koel/player)   | Koel Player, the official mobile app for Koel. |
 | Polaris | [Link](https://github.com/agersant/polaris-android) | Android client for Polaris |
 | Practice Suite | [Link](https://codeberg.org/berker/practice_suite) | The Swiss army knife of musicians |
